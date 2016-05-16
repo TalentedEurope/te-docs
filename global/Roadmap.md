@@ -17,10 +17,10 @@ Will consist on a landing page, a sample demo application with simple features (
 ##Alpha 2##
 Will include the completion of the translation tools,  user registration and profile search for companies.
 
-- Finish the translation tools, importing xls to internal Laravel format.
 - Build the profile search tool, and the public profile views and its related actions like messaging storing views etc.
 - Basic user registration for all profiles.
 - Finish the profile views and add search to the mobile application
+- Extend the landing page to include a prelaunch view
 
 ##Alpha 3##
 Completing Alpha 3 means we arrive at beta stage. So that means that finishing it will have the application feature complete.
@@ -30,4 +30,5 @@ Completing Alpha 3 means we arrive at beta stage. So that means that finishing i
 -  Finish all the company views.
 -  Build the statistics export/view
 -  Add the final touches to the mobile application.
+-  Finish the translation tools, importing xls to internal Laravel format.
 -  Integrate translations.
