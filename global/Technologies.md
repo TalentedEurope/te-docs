@@ -29,6 +29,14 @@ It's also very nice documented, and just to give a few examples it's used on the
 **ES6**
 While we're fans of Javascript, ES6 gives us a better tooling which helps us to maintain better clarity codewise, And in the end it's the future of javascript and since this is a long term project, we think it's better to go bleeding edge in those aspects, to avoid having to maintain *old stuff* in a few years.
 
+**Nativescript + Angular**
+Web technologies are amazing, even for mobile applications, the main issue is that the performance is quite low, and they feel out of place since they don't use native components, on the other side working on pure native technologies slows down development and increases it's costs plus complicates the reuse of code. So we're going on a hybrid technology like Nativescript with Angular, which allows us to use the best of both worlds, native components with web technologies with full access to the low level APIS.
+
+**API**
+
+While the API is just a part of the application, we want to give a slight brief on the technologies it's based. It is designed to be restful, using JWT for authentication.
+
+
 **Debian**
 
 While things like Ubuntu Server are nice and have a lot of bleeding edge technologies, we're fan of rock solid servers and thats where debian comes in. It's a good mix of stability and modernity.
